@@ -1,0 +1,7 @@
+path: ./Dataset  
+train: train  
+val: val  
+test: test  
+
+nc: 1
+names: ['ball'] 

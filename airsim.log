@@ -1,0 +1,93 @@
+2024-06-21 13:07:02,764 [INFO] Camera RGB resolution: 640x480
+2024-06-21 13:07:05,293 [INFO] Level DefaultMap loaded
+2024-06-21 13:07:25,322 [INFO] Drone took off
+2024-06-21 13:07:25,323 [INFO] Started image callback thread
+2024-06-21 13:07:25,324 [INFO] Started odometry callback thread
+2024-06-21 13:07:25,818 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:26,340 [INFO] Saved RGB image 1
+2024-06-21 13:07:26,826 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:27,291 [INFO] Saved RGB image 2
+2024-06-21 13:07:27,786 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:27,883 [INFO] Started visualize callback thread
+2024-06-21 13:07:27,886 [INFO] Started tracking callback thread
+2024-06-21 13:07:27,888 [INFO] Started moving callback thread
+2024-06-21 13:07:28,291 [INFO] Saved RGB image 3
+2024-06-21 13:07:28,864 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:29,321 [INFO] Saved RGB image 4
+2024-06-21 13:07:29,822 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:30,352 [INFO] Saved RGB image 5
+2024-06-21 13:07:30,936 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:31,709 [INFO] Saved RGB image 6
+2024-06-21 13:07:32,145 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:32,695 [INFO] Saved RGB image 7
+2024-06-21 13:07:33,206 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:33,633 [INFO] Saved RGB image 8
+2024-06-21 13:07:34,177 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:34,602 [INFO] Saved RGB image 9
+2024-06-21 13:07:35,241 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:35,601 [INFO] Saved RGB image 10
+2024-06-21 13:07:36,244 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:36,663 [INFO] Saved RGB image 11
+2024-06-21 13:07:37,244 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:37,717 [INFO] Saved RGB image 12
+2024-06-21 13:07:38,236 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:38,688 [INFO] Saved RGB image 13
+2024-06-21 13:07:39,248 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:39,722 [INFO] Saved RGB image 14
+2024-06-21 13:07:40,248 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:40,687 [INFO] Saved RGB image 15
+2024-06-21 13:07:41,250 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:41,687 [INFO] Saved RGB image 16
+2024-06-21 13:07:42,212 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:42,634 [INFO] Saved RGB image 17
+2024-06-21 13:07:43,238 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:43,666 [INFO] Saved RGB image 18
+2024-06-21 13:07:44,253 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:44,699 [INFO] Saved RGB image 19
+2024-06-21 13:07:45,244 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:45,743 [INFO] Saved RGB image 20
+2024-06-21 13:07:46,279 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:46,719 [INFO] Saved RGB image 21
+2024-06-21 13:07:47,255 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:47,704 [INFO] Saved RGB image 22
+2024-06-21 13:07:48,289 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:48,692 [INFO] Saved RGB image 23
+2024-06-21 13:07:49,243 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:49,700 [INFO] Saved RGB image 24
+2024-06-21 13:07:50,218 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:50,603 [INFO] Saved RGB image 25
+2024-06-21 13:07:50,857 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:51,290 [INFO] Saved RGB image 26
+2024-06-21 13:07:51,598 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:51,936 [INFO] Saved RGB image 27
+2024-06-21 13:07:52,238 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:52,622 [INFO] Saved RGB image 28
+2024-06-21 13:07:52,908 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:53,258 [INFO] Saved RGB image 29
+2024-06-21 13:07:53,520 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:54,010 [INFO] Saved RGB image 30
+2024-06-21 13:07:54,524 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:54,990 [INFO] Saved RGB image 31
+2024-06-21 13:07:55,229 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:55,672 [INFO] Saved RGB image 32
+2024-06-21 13:07:56,191 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:56,632 [INFO] Saved RGB image 33
+2024-06-21 13:07:56,890 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:57,298 [INFO] Saved RGB image 34
+2024-06-21 13:07:57,564 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:57,970 [INFO] Saved RGB image 35
+2024-06-21 13:07:58,239 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:58,721 [INFO] Saved RGB image 36
+2024-06-21 13:07:59,200 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:07:59,619 [INFO] Saved RGB image 37
+2024-06-21 13:07:59,878 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:08:00,306 [INFO] Saved RGB image 38
+2024-06-21 13:08:00,543 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:08:01,022 [INFO] Saved RGB image 39
+2024-06-21 13:08:01,642 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:08:02,025 [INFO] Saved RGB image 40
+2024-06-21 13:08:02,603 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:08:02,991 [INFO] Saved RGB image 41
+2024-06-21 13:08:03,270 [INFO] Received RGB image: (480, 640, 3)
+2024-06-21 13:08:03,676 [INFO] Saved RGB image 42
+2024-06-21 13:08:04,275 [INFO] Received RGB image: (480, 640, 3)
